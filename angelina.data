@@ -1,0 +1,5 @@
+classes=114
+train  = data/angelinatrain.txt
+valid  = data/angelinavalid.txt
+names = data/angelina.names
+backup = backup/
